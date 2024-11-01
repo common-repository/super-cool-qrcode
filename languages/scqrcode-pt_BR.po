@@ -1,0 +1,171 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Super Cool QRCode\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-06 22:31-0300\n"
+"PO-Revision-Date: 2011-03-06 22:31-0300\n"
+"Last-Translator: Matias S. <matias@incerteza.org>\n"
+"Language-Team: Matias S. <matias@incerteza.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../super-cool-qrcodes.php:34
+msgid "A QR Code with the current url, or any other content"
+msgstr "Um QR Code com a url corrente, ou qualquer outro conteúdo"
+
+#: ../super-cool-qrcodes.php:80
+#: ../super-cool-qrcodes.php:172
+msgid "Title"
+msgstr "Título"
+
+#: ../super-cool-qrcodes.php:83
+#: ../super-cool-qrcodes.php:176
+msgid "Content"
+msgstr "Conteúdo"
+
+#: ../super-cool-qrcodes.php:85
+msgid "If you leave <strong>Content</strong> field blank the current page url will be used"
+msgstr "Deixando o campo <strong>Conteúdo</strong> em branco a url da página atual será usada"
+
+#: ../super-cool-qrcodes.php:86
+#: ../super-cool-qrcodes.php:180
+msgid "Content wrapping"
+msgstr "Envoltório do conteúdo"
+
+#: ../super-cool-qrcodes.php:87
+msgid "Before content"
+msgstr "Antes do conteúdo"
+
+#: ../super-cool-qrcodes.php:90
+msgid "After content"
+msgstr "Depois do conteúdo"
+
+#: ../super-cool-qrcodes.php:93
+#: ../super-cool-qrcodes.php:184
+msgid "Advanced options"
+msgstr "Opções avançadas"
+
+#: ../super-cool-qrcodes.php:94
+msgid "Size"
+msgstr "Tamanho"
+
+#: ../super-cool-qrcodes.php:97
+msgid "Encoding"
+msgstr "Codificação"
+
+#: ../super-cool-qrcodes.php:104
+msgid "Error correction"
+msgstr "Tratamento de erros"
+
+#: ../super-cool-qrcodes.php:112
+msgid "Margin"
+msgstr "Margem"
+
+#: ../super-cool-qrcodes.php:115
+msgid "Border"
+msgstr "Borda"
+
+#: ../super-cool-qrcodes.php:161
+msgid "Version Note"
+msgstr "Nota da Versão"
+
+#: ../super-cool-qrcodes.php:162
+msgid "Since a mention from <a rel=\"nofollow\" href=\"http://lifehacker.com/#!5777173/add-qr-codes-to-your-wordpress-blog\" target=\"_blank\">lifehacker.com</a> made me stop been lazy and fix some bugs, actually, rewrite almost all code and add multi-widget support, i decided to call version 0.0.7 \"<strong>Lifehacker Edition</strong>\", in honor of the blog that made me get out of chair and do something!"
+msgstr "Já que uma menção no <a rel=\"nofollow\" href=\"http://lifehacker.com/#!5777173/add-qr-codes-to-your-wordpress-blog\" target=\"_blank\">lifehacker.com</a> me fez deixar de ser preguiçoso de concertar alguns bugs, ou na verdade, reescrever a maior parte do código e adicionar suporte a multi-widgets, eu decidi chamar a versão 0.0.7 \"<strong>Lifehacker Edition</strong>\", em homenagem ao blog que me fez tormar vergonha e fazer algo!"
+
+#: ../super-cool-qrcodes.php:163
+msgid "Widget"
+msgstr "Widget"
+
+#: ../super-cool-qrcodes.php:164
+msgid "Multi-widgets is supported, so you can add as many as you want, and since they are generated using <a rel=\"nofollow\" href=\"http://code.google.com/apis/chart/\" target=\"_blank\">Google Chart API</a> none significant load is added to your server."
+msgstr "Multi-widgets são suportado, então você pode adicionar quantos quiser, e como eles são gerados usando o <a rel=\"nofollow\" href=\"http://code.google.com/apis/chart/\" target=\"_blank\">Google Chart API</a> nenhuma carga significativa é adicionada ao seu servidor."
+
+#: ../super-cool-qrcodes.php:165
+msgid "There are several options you que configure in the widgets, they are:"
+msgstr "Existem várias opções para configurar o widget, são elas:"
+
+#: ../super-cool-qrcodes.php:168
+msgid "Option"
+msgstr "Opção"
+
+#: ../super-cool-qrcodes.php:169
+#: ../super-cool-qrcodes.php:194
+msgid "Description"
+msgstr "Descrição"
+
+#: ../super-cool-qrcodes.php:173
+msgid "The title that will be showed in the widget block in your blog"
+msgstr "The title that will be showed in the widget block in your blog"
+
+#: ../super-cool-qrcodes.php:177
+msgid "The content that will be encoded in the QR code, if you leave it blank the current blog or article url will be used"
+msgstr "O conteúdo será codificado no QR code, se você deixar em branco, a url do blog ou do artigo atual será usada"
+
+#: ../super-cool-qrcodes.php:181
+msgid "This is the code the will go before and after the QR code, you can use it to add any code you want around it"
+msgstr "Este é o código que irá antes de depois do QR code, você pode usa-lo para adicionar qualquer código ao seu redor"
+
+#: ../super-cool-qrcodes.php:185
+msgid "Here you choose the QR code encoding options, the same way at the shortcode"
+msgstr "Aqui você escolhe as opções de condificação do QR code, da mesma forma que no shortcode"
+
+#: ../super-cool-qrcodes.php:188
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: ../super-cool-qrcodes.php:189
+msgid "If you simply use <strong>[qrcode]</strong> a QR code with a link to the current URL will be rendered, if you use <strong>[qrcode]</strong><em>content</em><strong>[/qrcode]</strong> a QR code with <em>content</em> will be rendered."
+msgstr "Se você usar simplesmente <strong>[qrcode]</strong> um QR code com a url da página atual será gerado. Se usar <strong>[qrcode]</strong><em>conteúdo</em><strong>[/qrcode]</strong> um QR code com <em>conteúdo</em> será gerado."
+
+#: ../super-cool-qrcodes.php:190
+msgid "You can overwrite any default value passing it as a parameter in the shortcode, ex: <strong>[sqrcode size=\"150\" link=\"true\"]</strong><em>content</em><strong>[/sqrcode]</strong>, will render a QR code with 150px of side, possible options are:"
+msgstr "Você pode sobrescrever os valores padrões passando-os como parâmetros do shortcode, ex: <strong>[sqrcode size=\"150\" link=\"true\"]</strong><em>conteúdo</em><strong>[/sqrcode]</strong>, irá criar um QR code com 150px de arresta, as opções possíveis são:"
+
+#: ../super-cool-qrcodes.php:193
+msgid "Parameter"
+msgstr "Parâmetro"
+
+#: ../super-cool-qrcodes.php:198
+msgid "The size of the generated QR code image. it is always a square, so you only need to set one side"
+msgstr "O tamanho da imagem do QR code gerada. É sempre um quadrado, então é necessário especificar uma vez"
+
+#: ../super-cool-qrcodes.php:202
+msgid "Specifies how the output is encoded. Available encodings are Shift_JIS, UTF-8, or ISO-8859-1"
+msgstr "Específica a codificação da imagem. Opções disponíveis são Shift_JIS, UTF-8, ou ISO-8859-1"
+
+#: ../super-cool-qrcodes.php:206
+#, php-format
+msgid "Error correction level:<br/><strong>L</strong> allows 7% of a QR code to be restored<br/><strong>M</strong> allows 15% of a QR code to be restored<br/><strong>Q</strong> allows 25% of a QR code to be restored<br/><strong>H</strong> allows 30% of a QR code to be restored"
+msgstr "Níveis de correção de errol:<br/><strong>L</strong> permite recuperar 7% do QR code<br/><strong>M</strong> permite recuperar 15% do QR code<br/><strong>Q</strong> permite recuperar 25% do QR code<br/><strong>H</strong> permite recuperar 30% do QR code"
+
+#: ../super-cool-qrcodes.php:210
+msgid "Defines the margin (or blank space) around the QR code"
+msgstr "Define a margem (ou espaço em branco) ao redor do QR code"
+
+#: ../super-cool-qrcodes.php:214
+msgid "The border thickness of the image"
+msgstr "A espessura da borda da imagem"
+
+#: ../super-cool-qrcodes.php:217
+msgid "Usefull Links"
+msgstr "Links Úteis"
+
+#: ../super-cool-qrcodes.php:218
+msgid "<a rel=\"nofollow\" href=\"http://zxing.org/w/decode.jspx\" target=\"_blank\">ZXing Decoder Online</a>: decode your QR code in a online interface<br /><a rel=\"nofollow\" href=\"http://code.google.com/apis/chart/\" target=\"_blank\">Google Chart API</a>: the API used by this plugin to generate the codes"
+msgstr "<a rel=\"nofollow\" href=\"http://zxing.org/w/decode.jspx\" target=\"_blank\">ZXing Decoder Online</a>: decodifique QR codes online<br /><a rel=\"nofollow\" href=\"http://code.google.com/apis/chart/\" target=\"_blank\">Google Chart API</a>: a API usada pelo plugin para gerar QR codes"
+
+#: ../super-cool-qrcodes.php:220
+msgid "<strong>Note</strong>: i'm learning PHP & Wordpress coding and using this plugin to study, so if you have any idea or any kind of suggestion please contact me."
+msgstr "<strong>Nota</strong>: estou aprendendo e programar para Wordpress e usando este plugin para estudar, estão se você tiver qualquer idéia ou sugestão entre em contato."
+
+#: ../super-cool-qrcodes.php:221
+msgid "<a href=\"%1$s\">%2$s v%3$s</a> by <a href=\"mailto:\"%4$s?Subject=Super%20Cool%20QRCode\">%5$s</a>"
+msgstr "<a href=\"%1$s\">%2$s v%3$s</a> por <a href=\"mailto:\"%4$s?Subject=Super%20Cool%20QRCode\">%5$s</a>"
+
